@@ -3,3 +3,6 @@ git add <fichiers>
 git commit -m "<msg>"
 git push
 git pull
+
+git branch new-branch
+git checkout new-branch
